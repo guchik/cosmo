@@ -44,8 +44,8 @@
     "versionPublish": "4.12.3",
     "PWA": {
       "enabled": true,
-      "name": "cosmotoly",
-      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/40087776-les-femmes-qui-portent-des-lunettes-de-travailler-dans-trop-occups-entreprise-512x512_1.png",
       "themeColor": "#ea6079"
     },
     "favicon": false,
